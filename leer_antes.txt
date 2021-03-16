@@ -1,0 +1,5 @@
+git clone https://github.com/ankebox/trabajo_lenguajes ----> para clonarlo
+git add --> para añadir el archivo cambiado
+git commit -m "xxxx" ---> para hacer el commit de los archivos
+git push trabajo master -----> para subir el nuevo commit a la red 
+git pull ( a secas ) ------> para actualizar tu carpeta local con los nuevos cambios de los commits del resto 
